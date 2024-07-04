@@ -2,6 +2,11 @@
 
 ## Overview
 
+This project is part of a video series on backend development with JavaScript. You can find the series here:
+
+- [Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj?origin=share) 
+- [Video playlist](https://www.youtube.com/watch?v=7fjOw8ApZ1I)
+
 BackendWithMongoose is a Node.js-based backend project that utilizes Mongoose to interact with a MongoDB database. This repository serves as a boilerplate for creating scalable and maintainable backend services.
 
 ## Features

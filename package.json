@@ -1,0 +1,19 @@
+{
+  "name": "backendwithmongoose",
+  "version": "1.0.0",
+  "description": "BackendWithMongoose is a Node.js-based backend project that utilizes Mongoose to interact with a MongoDB database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "mongoose",
+    "mongodb",
+    "aditya",
+    "adityagupta"
+  ],
+  "author": "Aditya Gupta",
+  "license": "ISC"
+}
