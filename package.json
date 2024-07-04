@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "BackendWithMongoose is a Node.js-based backend project that utilizes Mongoose to interact with a MongoDB database",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "dev": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -15,5 +17,8 @@
     "adityagupta"
   ],
   "author": "Aditya Gupta",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
